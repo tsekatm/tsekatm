@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tsekatm
-- 👀 I’m interested in ...data science and software development
+- 👀 I’m interested in ...data science and software development 
 - 🌱 I’m currently learning ...python and java languages for programming
 - 💞️ I’m looking to collaborate on ...code camps
 - 📫 How to reach me ...
