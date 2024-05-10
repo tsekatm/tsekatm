@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tsekatm
-- 👀 I’m interested in a Java developer junior role. 
-- 🌱 I’m currently doing an internship in Java with Open learn code academy.
+- 👀 I’m interested in a Java developer and AWS data engineer roles. 
+- 🌱 I’m an instructor for Java and AWS with Open Learn Code Academy, Johannesburg, South Africa.
 - I hold three AWS certifications: Practitioner, Solutions Architect Associates and Data Analytics Specialty.
 - 📫 Let us connect on LinkedIn: 
 https://www.linkedin.com/in/tebogo-tseka-b6098b68/
