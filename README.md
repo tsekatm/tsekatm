@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tsekatm
-- 👀 I’m interested in a Java developer and AWS data engineer roles. 
+- 👀 I am looking for an entry level Software developer, Cloud Engineer, DevOps and AWS data engineer roles. 
 - 🌱 I’m an instructor for Java and AWS with Open Learn Code Academy, Johannesburg, South Africa.
 - I hold three AWS certifications: Practitioner, Solutions Architect Associates and Data Analytics Specialty.
 - I am An Oracle Certified Associate java 8 programmer
