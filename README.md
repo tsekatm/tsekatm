@@ -2,6 +2,8 @@
 - 👀 I’m interested in a Java developer and AWS data engineer roles. 
 - 🌱 I’m an instructor for Java and AWS with Open Learn Code Academy, Johannesburg, South Africa.
 - I hold three AWS certifications: Practitioner, Solutions Architect Associates and Data Analytics Specialty.
+- I am An Oracle Certified Associate java 8 programmer
+- I am a certified Cloud Engineer (HashiCorp Terraform Associate)
 - 📫 Let us connect on LinkedIn: 
 https://www.linkedin.com/in/tebogo-tseka-b6098b68/
 <!---
