@@ -14,10 +14,11 @@ Background: Master's in Chemical Engineering, applying that analytical foundatio
 
 | Architecture & Cloud | Quality & Leadership |
 |---|---|
-| AWS Solutions Architect Associate | ISTQB Certified Tester (Foundation Level) |
+| AWS Solutions Architect Associate & Professional | ISTQB Certified Tester (Foundation Level) |
 | AWS Cloud Practitioner & AI Practitioner | Certified Scrum Master (CSM) |
 | AWS Data Analytics Specialty | Java 8 (Oracle Certified Associate) |
 | HashiCorp Terraform Associate (003) | |
+| Microsoft Certified: Azure Fundamentals (AZ-900) | |
 
 ## Core Expertise
 
