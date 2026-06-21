@@ -50,7 +50,6 @@ Background: Master's in Chemical Engineering, applying that analytical foundatio
 | [eks-ai-governance](https://github.com/tsekatm/eks-ai-governance) | FastAPI AI governance service on EKS — inference, model card, audit logging, Helm, HPA |
 | [mlops-sagemaker-pipeline](https://github.com/tsekatm/mlops-sagemaker-pipeline) | End-to-end MLOps pipeline on SageMaker with automated retraining and drift monitoring |
 | [iot-kinesis-stream](https://github.com/tsekatm/iot-kinesis-stream) | Real-time IoT telemetry pipeline: Kinesis to Lambda to DynamoDB with anomaly alerting |
-| [3_site_builder_agent_eval](https://github.com/tsekatm/3_site_builder_agent_eval) | Evaluation framework for AI code generators — tested 5 models across 467 actions |
 | [ml-churn-predictor](https://github.com/tsekatm/ml-churn-predictor) | Telecom churn prediction with scikit-learn, Keras, and Amazon SageMaker |
 
 ## Beyond Tech
